@@ -11,15 +11,15 @@ TODO:
 FTP (opens in /public_html directory... if you need to be further back than that, I can change it):
 Host name: ftp.summerstreetchurch.org
 User name: radif@summerstreetchurch.org
-Password: SSC4TROTTERS
+Password: xxxxxx
 
 Cpanel for MySQL & PHP:
 URL: www.summerstreetchurch.org/cpanel
 username: summerst
-password: 8kqpd1Cw36-k
+password: xxxx
 
 
 DB: summerst_caststats
 table: downloading_stats
 username: summerst_podcast
-password: 8kqpd1C
+password: xxxxx
