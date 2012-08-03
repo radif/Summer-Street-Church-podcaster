@@ -1,0 +1,1683 @@
+TID3Tag_10.4_Universal
+v7
+r0
+t305790887.944871
+cCheck dependencies
+cSymLink /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/Current A
+cSymLink /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Resources Versions/Current/Resources
+cSymLink /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Headers Versions/Current/Headers
+cSymLink /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/PrivateHeaders Versions/Current/PrivateHeaders
+cSymLink /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/ID3 Versions/Current/ID3
+cProcessInfoPlistFile /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/Info.plist Info-ID3Tag__Upgraded_-1.plist
+cCpHeader build/Debug/ID3.framework/Versions/A/Headers/id3V1Tag.h libid3/id3V1Tag.h
+cCpHeader build/Debug/ID3.framework/Versions/A/Headers/id3V2Frame.h libid3/id3V2Frame.h
+cCpHeader build/Debug/ID3.framework/Versions/A/Headers/id3V2Tag.h libid3/id3V2Tag.h
+cCpHeader build/Debug/ID3.framework/Versions/A/Headers/TagAPI.h libid3/TagAPI.h
+cCpHeader build/Debug/ID3.framework/Versions/A/PrivateHeaders/V20FrameSet.h libid3/V20FrameSet.h
+cCpHeader build/Debug/ID3.framework/Versions/A/PrivateHeaders/V23FrameSet.h libid3/V23FrameSet.h
+cCpHeader build/Debug/ID3.framework/Versions/A/PrivateHeaders/V24FrameSet.h libid3/V24FrameSet.h
+cCpHeader build/Debug/ID3.framework/Versions/A/Headers/MP3Header.h libid3/MP3Header.h
+cCopyStringsFile /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCopyPlistFile /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/data.plist libid3/data.plist
+cCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V1Tag.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V1Tag.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V2Frame.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V2Frame.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V2Tag.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V2Tag.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/TagAPI.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/TagAPI.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V20FrameSet.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/V20FrameSet.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V23FrameSet.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/V23FrameSet.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V24FrameSet.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/V24FrameSet.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/MP3Header.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/MP3Header.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/md5.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/md5.c normal i386 c com.apple.compilers.gcc.4_2
+cCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/ID3_vers.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources/ID3_vers.c normal i386 c com.apple.compilers.gcc.4_2
+cLd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/ID3 normal i386
+cTouch /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework
+
+N/Developer/SDKs/MacOSX10.5.sdk
+c000000004C632D4500000000000000EE
+t1281568069
+s238
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004864BB88000000000000170F
+t1214561160
+s5903
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSBitmapImageRep.h
+c000000004864BB880000000000001F20
+t1214561160
+s7968
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSImage.h
+c000000004864BB8A0000000000003D63
+t1214561162
+s15715
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004864A1C900000000000012EE
+t1214554569
+s4846
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSArray.h
+c000000004864A1C900000000000011E4
+t1214554569
+s4580
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSAutoreleasePool.h
+c000000004864A1C90000000000000198
+t1214554569
+s408
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSBundle.h
+c000000004864A1C90000000000001224
+t1214554569
+s4644
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCharacterSet.h
+c000000004864A1C900000000000007EA
+t1214554569
+s2026
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h
+c000000004864A1CA0000000000000FA8
+t1214554570
+s4008
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDictionary.h
+c000000004864A1CA0000000000000B36
+t1214554570
+s2870
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileHandle.h
+c000000004864A1CA000000000000096B
+t1214554570
+s2411
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h
+c000000004864A1CA000000000000481E
+t1214554570
+s18462
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h
+c000000004864A1CB0000000000000CD5
+t1214554571
+s3285
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h
+c000000004864A1CC0000000000005768
+t1214554572
+s22376
+
+N/Developer/SDKs/MacOSX10.5.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSValue.h
+c000000004864A1CD0000000000000BDA
+t1214554573
+s3034
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/string.h
+c0000000047BA99320000000000001731
+t1203411250
+s5937
+
+N/Developer/SDKs/MacOSX10.5.sdk/usr/include/zconf.h
+c0000000047BABC060000000000002577
+t1203420166
+s9591
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004BE2C6D100000000000017ED
+t1273153233
+s6125
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSBitmapImageRep.h
+c000000004C23BD2900000000000020EA
+t1277410601
+s8426
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSImage.h
+c000000004C23BD2900000000000061BF
+t1277410601
+s25023
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSArray.h
+c000000004C23AA040000000000001C87
+t1277405700
+s7303
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSAutoreleasePool.h
+c000000004C23AA040000000000000198
+t1277405700
+s408
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSBundle.h
+c000000004C23AA040000000000001C0F
+t1277405700
+s7183
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSCharacterSet.h
+c000000004C23AA0400000000000007EA
+t1277405700
+s2026
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSData.h
+c000000004C23AA040000000000001565
+t1277405700
+s5477
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSDictionary.h
+c000000004C23AA040000000000000EA7
+t1277405700
+s3751
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileHandle.h
+c000000004C23AA050000000000000AC6
+t1277405701
+s2758
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h
+c000000004C23AA040000000000007280
+t1277405700
+s29312
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h
+c000000004C46BD470000000000000EDE
+t1279704391
+s3806
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h
+c000000004C23AA060000000000005F75
+t1277405702
+s24437
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSValue.h
+c000000004C23AA060000000000000BDA
+t1277405702
+s3034
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004BBD2CE90000000000001731
+t1270689001
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/zconf.h
+c000000004BBD30650000000000002488
+t1270689893
+s9352
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004B5FA877000000000000A5E0
+t1264560247
+s42464
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/English.lproj/InfoPlist.strings
+c0000000045492B430000000000000212
+t1162423107
+s530
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework
+t1284097995
+s238
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Headers
+t3
+s24
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/ID3
+t3
+s20
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/PrivateHeaders
+t3
+s31
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Resources
+t3
+s26
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Headers/MP3Header.h
+t1283361201
+s1582
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Headers/TagAPI.h
+t1283361201
+s4123
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Headers/id3V1Tag.h
+t1283361201
+s1706
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Headers/id3V2Frame.h
+t1283361201
+s2340
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Headers/id3V2Tag.h
+t1283361201
+s4101
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/ID3
+t1284097995
+s146012
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/PrivateHeaders/V20FrameSet.h
+t1283361201
+s1280
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/PrivateHeaders/V23FrameSet.h
+t1283361201
+s1357
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/PrivateHeaders/V24FrameSet.h
+t1283361201
+s1476
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
+t1283361201
+s530
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/Info.plist
+t1283361201
+s696
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/data.plist
+t1283361201
+s55365
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/Current
+t3
+s1
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources/ID3_vers.c
+c000000004C7E89B100000000000000B1
+t1283361201
+s177
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/ID3.LinkFileList
+c000000004C89C7C900000000000005A5
+t1284097993
+s1445
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/ID3_vers.o
+t1283361205
+s2072
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/MP3Header.o
+t1283361205
+s28232
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/TagAPI.o
+t1283361204
+s66880
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V20FrameSet.o
+t1283361204
+s15480
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V23FrameSet.o
+t1283361204
+s18600
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V24FrameSet.o
+t1283361205
+s21700
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V1Tag.o
+t1283361202
+s26148
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V2Frame.o
+t1283361203
+s48320
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V2Tag.o
+t1283361203
+s95200
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/md5.o
+t1283361205
+s8552
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/MP3Header.h
+c0000000045491FD5000000000000062E
+t1162420181
+s1582
+i<Foundation/Foundation.h>
+i<Foundation/NSObject.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/MP3Header.m
+c000000004C7026DF0000000000003087
+t1282418399
+s12423
+i"MP3Header.h"
+i"md5.h"
+i"MP3Header.h"
+i"md5.h"
+i<Foundation/NSData.h>
+i<Foundation/NSFileHandle.h>
+i<Foundation/NSString.h>
+i<Foundation/NSValue.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/TagAPI.h
+c00000000459D90F9000000000000101B
+t1167954169
+s4123
+i<Foundation/Foundation.h>
+i"id3V2Tag.h"
+i"id3V1Tag.h"
+i"id3V2Frame.h"
+i"MP3Header.h"
+i<Foundation/NSObject.h>
+i"id3V2Tag.h"
+i"id3V1Tag.h"
+i"id3V2Frame.h"
+i"MP3Header.h"
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/TagAPI.m
+c000000004C7026DF0000000000006F4F
+t1282418399
+s28495
+i"TagAPI.h"
+i"TagAPI.h"
+i<Foundation/NSArray.h>
+i<Foundation/NSBundle.h>
+i<Foundation/NSDictionary.h>
+i<Foundation/NSAutoreleasePool.h>
+i<Foundation/NSString.h>
+i<Foundation/NSValue.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/V20FrameSet.h
+c0000000045491FD60000000000000500
+t1162420182
+s1280
+i<Foundation/Foundation.h>
+i"id3V2Frame.h"
+i"id3V2Frame.h"
+i<Foundation/NSObject.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/V20FrameSet.m
+c0000000045D2222900000000000011AD
+t1171399209
+s4525
+i"V20FrameSet.h"
+i"V20FrameSet.h"
+i<Foundation/NSArray.h>
+i<Foundation/NSData.h>
+i<Foundation/NSDictionary.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/V23FrameSet.h
+c0000000045491FD6000000000000054D
+t1162420182
+s1357
+i<Foundation/Foundation.h>
+i"id3V2Frame.h"
+i<Foundation/NSObject.h>
+i"id3V2Frame.h"
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/V23FrameSet.m
+c000000004C7026DF000000000000189F
+t1282418399
+s6303
+i"V23FrameSet.h"
+i"zlib.h"
+i"V23FrameSet.h"
+i"zlib.h"
+i<Foundation/NSArray.h>
+i<Foundation/NSData.h>
+i<Foundation/NSDictionary.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/V24FrameSet.h
+c0000000045491FD600000000000005C4
+t1162420182
+s1476
+i<Foundation/Foundation.h>
+i"id3V2Frame.h"
+i<Foundation/NSObject.h>
+i"id3V2Frame.h"
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/V24FrameSet.m
+c000000004C7026DF0000000000002688
+t1282418399
+s9864
+i"V24FrameSet.h"
+i"zlib.h"
+i"V24FrameSet.h"
+i"zlib.h"
+i<Foundation/NSArray.h>
+i<Foundation/NSData.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/data.plist
+c0000000045492B43000000000000D845
+t1162423107
+s55365
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V1Tag.h
+c0000000045491FD600000000000006AA
+t1162420182
+s1706
+i<Foundation/Foundation.h>
+i<Foundation/NSObject.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V1Tag.m
+c000000004C702703000000000000235B
+t1282418435
+s9051
+i<Foundation/Foundation.h>
+i"id3V1Tag.h"
+i"id3V1Tag.h"
+i<Foundation/NSFileHandle.h>
+i<Foundation/NSData.h>
+i<Foundation/NSString.h>
+i<Foundation/NSValue.h>
+i<Foundation/NSCharacterSet.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V2Frame.h
+c000000004C7882F40000000000000924
+t1282966260
+s2340
+i<Foundation/Foundation.h>
+i<Foundation/NSObject.h>
+i<GNUstepBase/Unicode.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V2Frame.m
+c000000004C789B07000000000000609E
+t1282972423
+s24734
+i"id3V2Frame.h"
+i<zlib.h>
+i<AppKit/NSBitmapImageRep.h>
+i"id3V2Frame.h"
+i<zlib.h>
+i<Foundation/NSArray.h>
+i<Foundation/NSCharacterSet.h>
+i<Foundation/NSData.h>
+i<Foundation/NSDictionary.h>
+i<Foundation/NSString.h>
+i<AppKit/NSBitmapImageRep.h>
+i<AppKit/NSBitmapImageRep.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V2Tag.h
+c0000000045491FD60000000000001005
+t1162420182
+s4101
+i<Foundation/Foundation.h>
+i"id3V2Frame.h"
+i"id3V2Frame.h"
+i<Foundation/NSObject.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V2Tag.m
+c000000004C7026DF000000000000E539
+t1282418399
+s58681
+i"id3V2Tag.h"
+i"zlib.h"
+i<AppKit/NSImage.h>
+i"V20FrameSet.h"
+i"V23FrameSet.h"
+i"V24FrameSet.h"
+i"id3V2Tag.h"
+i"zlib.h"
+i"V20FrameSet.h"
+i"V23FrameSet.h"
+i"V24FrameSet.h"
+i<Foundation/NSArray.h>
+i<Foundation/NSAutoreleasePool.h>
+i<Foundation/NSData.h>
+i<Foundation/NSFileHandle.h>
+i<Foundation/NSFileManager.h>
+i<AppKit/NSImage.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/md5.c
+c00000000454931B000000000000030B8
+t1162424752
+s12472
+i"md5.h"
+i<string.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/md5.h
+c0000000045491FD60000000000000D47
+t1162420182
+s3399
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/zlib.h
+c0000000045491FD60000000000009FC2
+t1162420182
+s40898
+i"zconf.h"
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/English.lproj/InfoPlist.strings
+c0000000045492B430000000000000212
+t1162423107
+s530
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework
+t1283361205
+s238
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Headers
+t3
+s24
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/ID3
+t3
+s20
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/PrivateHeaders
+t3
+s31
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Resources
+t3
+s26
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Headers/MP3Header.h
+t1283361201
+s1582
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Headers/TagAPI.h
+t1283361201
+s4123
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Headers/id3V1Tag.h
+t1283361201
+s1706
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Headers/id3V2Frame.h
+t1283361201
+s2340
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Headers/id3V2Tag.h
+t1283361201
+s4101
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/ID3
+t1283361205
+s145932
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/PrivateHeaders/V20FrameSet.h
+t1283361201
+s1280
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/PrivateHeaders/V23FrameSet.h
+t1283361201
+s1357
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/PrivateHeaders/V24FrameSet.h
+t1283361201
+s1476
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
+t1283361201
+s530
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/Info.plist
+t1283361201
+s696
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/data.plist
+t1283361201
+s55365
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/Current
+t3
+s1
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources/ID3_vers.c
+c000000004C7E89B100000000000000B1
+t1283361201
+s177
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/ID3.LinkFileList
+c000000004C7E89B10000000000000555
+t1283361201
+s1365
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/ID3_vers.o
+t1283361205
+s2072
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/MP3Header.o
+t1283361205
+s28232
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/TagAPI.o
+t1283361204
+s66880
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V20FrameSet.o
+t1283361204
+s15480
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V23FrameSet.o
+t1283361204
+s18600
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V24FrameSet.o
+t1283361205
+s21700
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V1Tag.o
+t1283361202
+s26148
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V2Frame.o
+t1283361203
+s48320
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V2Tag.o
+t1283361203
+s95200
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/md5.o
+t1283361205
+s8552
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/MP3Header.h
+c0000000045491FD5000000000000062E
+t1162420181
+s1582
+i<Foundation/Foundation.h>
+i<Foundation/NSObject.h>
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/MP3Header.m
+c000000004C7026DF0000000000003087
+t1282418399
+s12423
+i"MP3Header.h"
+i"md5.h"
+i"MP3Header.h"
+i"md5.h"
+i<Foundation/NSData.h>
+i<Foundation/NSFileHandle.h>
+i<Foundation/NSString.h>
+i<Foundation/NSValue.h>
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/TagAPI.h
+c00000000459D90F9000000000000101B
+t1167954169
+s4123
+i<Foundation/Foundation.h>
+i"id3V2Tag.h"
+i"id3V1Tag.h"
+i"id3V2Frame.h"
+i"MP3Header.h"
+i<Foundation/NSObject.h>
+i"id3V2Tag.h"
+i"id3V1Tag.h"
+i"id3V2Frame.h"
+i"MP3Header.h"
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/TagAPI.m
+c000000004C7026DF0000000000006F4F
+t1282418399
+s28495
+i"TagAPI.h"
+i"TagAPI.h"
+i<Foundation/NSArray.h>
+i<Foundation/NSBundle.h>
+i<Foundation/NSDictionary.h>
+i<Foundation/NSAutoreleasePool.h>
+i<Foundation/NSString.h>
+i<Foundation/NSValue.h>
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V20FrameSet.h
+c0000000045491FD60000000000000500
+t1162420182
+s1280
+i<Foundation/Foundation.h>
+i"id3V2Frame.h"
+i"id3V2Frame.h"
+i<Foundation/NSObject.h>
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V20FrameSet.m
+c0000000045D2222900000000000011AD
+t1171399209
+s4525
+i"V20FrameSet.h"
+i"V20FrameSet.h"
+i<Foundation/NSArray.h>
+i<Foundation/NSData.h>
+i<Foundation/NSDictionary.h>
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V23FrameSet.h
+c0000000045491FD6000000000000054D
+t1162420182
+s1357
+i<Foundation/Foundation.h>
+i"id3V2Frame.h"
+i<Foundation/NSObject.h>
+i"id3V2Frame.h"
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V23FrameSet.m
+c000000004C7026DF000000000000189F
+t1282418399
+s6303
+i"V23FrameSet.h"
+i"zlib.h"
+i"V23FrameSet.h"
+i"zlib.h"
+i<Foundation/NSArray.h>
+i<Foundation/NSData.h>
+i<Foundation/NSDictionary.h>
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V24FrameSet.h
+c0000000045491FD600000000000005C4
+t1162420182
+s1476
+i<Foundation/Foundation.h>
+i"id3V2Frame.h"
+i<Foundation/NSObject.h>
+i"id3V2Frame.h"
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V24FrameSet.m
+c000000004C7026DF0000000000002688
+t1282418399
+s9864
+i"V24FrameSet.h"
+i"zlib.h"
+i"V24FrameSet.h"
+i"zlib.h"
+i<Foundation/NSArray.h>
+i<Foundation/NSData.h>
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/data.plist
+c0000000045492B43000000000000D845
+t1162423107
+s55365
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.h
+c0000000045491FD600000000000006AA
+t1162420182
+s1706
+i<Foundation/Foundation.h>
+i<Foundation/NSObject.h>
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m
+c000000004C702703000000000000235B
+t1282418435
+s9051
+i<Foundation/Foundation.h>
+i"id3V1Tag.h"
+i"id3V1Tag.h"
+i<Foundation/NSFileHandle.h>
+i<Foundation/NSData.h>
+i<Foundation/NSString.h>
+i<Foundation/NSValue.h>
+i<Foundation/NSCharacterSet.h>
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.h
+c000000004C7882F40000000000000924
+t1282966260
+s2340
+i<Foundation/Foundation.h>
+i<Foundation/NSObject.h>
+i<GNUstepBase/Unicode.h>
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.m
+c000000004C789B07000000000000609E
+t1282972423
+s24734
+i"id3V2Frame.h"
+i<zlib.h>
+i<AppKit/NSBitmapImageRep.h>
+i"id3V2Frame.h"
+i<zlib.h>
+i<Foundation/NSArray.h>
+i<Foundation/NSCharacterSet.h>
+i<Foundation/NSData.h>
+i<Foundation/NSDictionary.h>
+i<Foundation/NSString.h>
+i<AppKit/NSBitmapImageRep.h>
+i<AppKit/NSBitmapImageRep.h>
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.h
+c0000000045491FD60000000000001005
+t1162420182
+s4101
+i<Foundation/Foundation.h>
+i"id3V2Frame.h"
+i"id3V2Frame.h"
+i<Foundation/NSObject.h>
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m
+c000000004C7026DF000000000000E539
+t1282418399
+s58681
+i"id3V2Tag.h"
+i"zlib.h"
+i<AppKit/NSImage.h>
+i"V20FrameSet.h"
+i"V23FrameSet.h"
+i"V24FrameSet.h"
+i"id3V2Tag.h"
+i"zlib.h"
+i"V20FrameSet.h"
+i"V23FrameSet.h"
+i"V24FrameSet.h"
+i<Foundation/NSArray.h>
+i<Foundation/NSAutoreleasePool.h>
+i<Foundation/NSData.h>
+i<Foundation/NSFileHandle.h>
+i<Foundation/NSFileManager.h>
+i<AppKit/NSImage.h>
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/md5.c
+c00000000454931B000000000000030B8
+t1162424752
+s12472
+i"md5.h"
+i<string.h>
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/md5.h
+c0000000045491FD60000000000000D47
+t1162420182
+s3399
+
+N/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/zlib.h
+c0000000045491FD60000000000009FC2
+t1162420182
+s40898
+i"zconf.h"
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/English.lproj/InfoPlist.strings
+c0000000045492B430000000000000212
+t1162423107
+s530
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework
+t1284097995
+s238
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Headers
+t3
+s24
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/ID3
+t3
+s20
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/PrivateHeaders
+t3
+s31
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Resources
+t3
+s26
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Headers/MP3Header.h
+t1283361201
+s1582
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Headers/TagAPI.h
+t1283361201
+s4123
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Headers/id3V1Tag.h
+t1283361201
+s1706
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Headers/id3V2Frame.h
+t1283361201
+s2340
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Headers/id3V2Tag.h
+t1283361201
+s4101
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/ID3
+t1284097995
+s146012
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/PrivateHeaders/V20FrameSet.h
+t1283361201
+s1280
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/PrivateHeaders/V23FrameSet.h
+t1283361201
+s1357
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/PrivateHeaders/V24FrameSet.h
+t1283361201
+s1476
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
+t1283361201
+s530
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/Info.plist
+t1283361201
+s696
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/data.plist
+t1283361201
+s55365
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/Current
+t3
+s1
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources/ID3_vers.c
+c000000004C7E89B100000000000000B1
+t1283361201
+s177
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/ID3.LinkFileList
+c000000004C89C7C900000000000005A5
+t1284097993
+s1445
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/ID3_vers.o
+t1283361205
+s2072
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/MP3Header.o
+t1283361205
+s28232
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/TagAPI.o
+t1283361204
+s66880
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V20FrameSet.o
+t1283361204
+s15480
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V23FrameSet.o
+t1283361204
+s18600
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V24FrameSet.o
+t1283361205
+s21700
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V1Tag.o
+t1283361202
+s26148
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V2Frame.o
+t1283361203
+s48320
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V2Tag.o
+t1283361203
+s95200
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/md5.o
+t1283361205
+s8552
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/MP3Header.h
+c0000000045491FD5000000000000062E
+t1162420181
+s1582
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/MP3Header.m
+c000000004C7026DF0000000000003087
+t1282418399
+s12423
+i"MP3Header.h"
+i"md5.h"
+i"MP3Header.h"
+i"md5.h"
+i<Foundation/NSData.h>
+i<Foundation/NSFileHandle.h>
+i<Foundation/NSString.h>
+i<Foundation/NSValue.h>
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/TagAPI.h
+c00000000459D90F9000000000000101B
+t1167954169
+s4123
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/TagAPI.m
+c000000004C7026DF0000000000006F4F
+t1282418399
+s28495
+i"TagAPI.h"
+i"TagAPI.h"
+i<Foundation/NSArray.h>
+i<Foundation/NSBundle.h>
+i<Foundation/NSDictionary.h>
+i<Foundation/NSAutoreleasePool.h>
+i<Foundation/NSString.h>
+i<Foundation/NSValue.h>
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/V20FrameSet.h
+c0000000045491FD60000000000000500
+t1162420182
+s1280
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/V20FrameSet.m
+c0000000045D2222900000000000011AD
+t1171399209
+s4525
+i"V20FrameSet.h"
+i"V20FrameSet.h"
+i<Foundation/NSArray.h>
+i<Foundation/NSData.h>
+i<Foundation/NSDictionary.h>
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/V23FrameSet.h
+c0000000045491FD6000000000000054D
+t1162420182
+s1357
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/V23FrameSet.m
+c000000004C7026DF000000000000189F
+t1282418399
+s6303
+i"V23FrameSet.h"
+i"zlib.h"
+i"V23FrameSet.h"
+i"zlib.h"
+i<Foundation/NSArray.h>
+i<Foundation/NSData.h>
+i<Foundation/NSDictionary.h>
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/V24FrameSet.h
+c0000000045491FD600000000000005C4
+t1162420182
+s1476
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/V24FrameSet.m
+c000000004C7026DF0000000000002688
+t1282418399
+s9864
+i"V24FrameSet.h"
+i"zlib.h"
+i"V24FrameSet.h"
+i"zlib.h"
+i<Foundation/NSArray.h>
+i<Foundation/NSData.h>
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/data.plist
+c0000000045492B43000000000000D845
+t1162423107
+s55365
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V1Tag.h
+c0000000045491FD600000000000006AA
+t1162420182
+s1706
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V1Tag.m
+c000000004C702703000000000000235B
+t1282418435
+s9051
+i<Foundation/Foundation.h>
+i"id3V1Tag.h"
+i"id3V1Tag.h"
+i<Foundation/NSFileHandle.h>
+i<Foundation/NSData.h>
+i<Foundation/NSString.h>
+i<Foundation/NSValue.h>
+i<Foundation/NSCharacterSet.h>
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V2Frame.h
+c000000004C7882F40000000000000924
+t1282966260
+s2340
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V2Frame.m
+c000000004C789B07000000000000609E
+t1282972423
+s24734
+i"id3V2Frame.h"
+i<zlib.h>
+i<AppKit/NSBitmapImageRep.h>
+i"id3V2Frame.h"
+i<zlib.h>
+i<Foundation/NSArray.h>
+i<Foundation/NSCharacterSet.h>
+i<Foundation/NSData.h>
+i<Foundation/NSDictionary.h>
+i<Foundation/NSString.h>
+i<AppKit/NSBitmapImageRep.h>
+i<AppKit/NSBitmapImageRep.h>
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V2Tag.h
+c0000000045491FD60000000000001005
+t1162420182
+s4101
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V2Tag.m
+c000000004C7026DF000000000000E539
+t1282418399
+s58681
+i"id3V2Tag.h"
+i"zlib.h"
+i<AppKit/NSImage.h>
+i"V20FrameSet.h"
+i"V23FrameSet.h"
+i"V24FrameSet.h"
+i"id3V2Tag.h"
+i"zlib.h"
+i"V20FrameSet.h"
+i"V23FrameSet.h"
+i"V24FrameSet.h"
+i<Foundation/NSArray.h>
+i<Foundation/NSAutoreleasePool.h>
+i<Foundation/NSData.h>
+i<Foundation/NSFileHandle.h>
+i<Foundation/NSFileManager.h>
+i<AppKit/NSImage.h>
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/md5.c
+c00000000454931B000000000000030B8
+t1162424752
+s12472
+i"md5.h"
+i<string.h>
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/md5.h
+c0000000045491FD60000000000000D47
+t1162420182
+s3399
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/zlib.h
+c0000000045491FD60000000000009FC2
+t1162420182
+s40898
+i"zconf.h"
+
+N/usr/lib/libz.1.2.3.dylib
+c000000004C23D302000000000003C090
+t1277416194
+s245904
+
+NInfo-ID3Tag__Upgraded_-1.plist
+c00000000457D90640000000000000321
+t1165856868
+s801
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies305790887#305790888#0(0"0(0#1#0"8623431136#0"0#
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/ID3_vers.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources/ID3_vers.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/ID3_vers.o /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources/ID3_vers.c normal i386 c com.apple.compilers.gcc.4_2
+s305054005.390400
+e305054005.422420
+r1
+xCompileC
+xbuild/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/ID3_vers.o
+x/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources/ID3_vers.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@138"Compile /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources/ID3_vers.c305054005#305054005#0(0"0(0#0#130"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources/ID3_vers.c8677188896#1159"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -D__APPLE__ -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/ID3.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/include -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources -c /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources/ID3_vers.c -o /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/ID3_vers.o0#
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/ID3_vers.o /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources/ID3_vers.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/MP3Header.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/MP3Header.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/MP3Header.o /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/MP3Header.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305054004.674831
+e305054005.390288
+r1
+xCompileC
+xbuild/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/MP3Header.o
+x/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/MP3Header.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/MP3Header.m305054004#305054005#0(0"0(0#0#73"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/MP3Header.m8673817056#1113"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -D__APPLE__ -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/ID3.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/include -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources -c /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/MP3Header.m -o /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/MP3Header.o0#
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/MP3Header.o /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/MP3Header.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/TagAPI.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/TagAPI.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/TagAPI.o /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/TagAPI.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305054003.058353
+e305054004.028625
+r1
+xCompileC
+xbuild/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/TagAPI.o
+x/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/TagAPI.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/TagAPI.m: In function '-[TagAPI examineFile:hasValidMp3Header:]':
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/TagAPI.m:240: warning: 'fileAttributesAtPath:traverseLink:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:162)
+lSLF07#2@78"Compile /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/TagAPI.m305054003#305054004#0(384"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/TagAPI.m: In function '-[TagAPI examineFile:hasValidMp3Header:]':/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/TagAPI.m:240: warning: 'fileAttributesAtPath:traverseLink:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:162)1(22@170"'fileAttributesAtPath:traverseLink:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:162)305054003#128#256#0(6@70"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/TagAPI.m304111199#240#0#240#0#33"'*' is deprecated (declared at *)0(0#0#70"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/TagAPI.m8669241728#1107"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -D__APPLE__ -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/ID3.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/include -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources -c /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/TagAPI.m -o /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/TagAPI.o0#
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/TagAPI.o /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/TagAPI.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V20FrameSet.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/V20FrameSet.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V20FrameSet.o /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V20FrameSet.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305054003.983239
+e305054004.626794
+r1
+xCompileC
+xbuild/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V20FrameSet.o
+x/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V20FrameSet.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V20FrameSet.m: In function '-[V20FrameSet getFrameID]':
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V20FrameSet.m:139: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)
+lSLF07#2@83"Compile /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V20FrameSet.m305054003#305054004#0(365"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V20FrameSet.m: In function '-[V20FrameSet getFrameID]':/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V20FrameSet.m:139: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)1(22@156"'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)305054004#118#247#0(6@75"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V20FrameSet.m193092009#139#0#139#0#33"'*' is deprecated (declared at *)0(0#0#75"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V20FrameSet.m8668532544#1117"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -D__APPLE__ -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/ID3.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/include -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources -c /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V20FrameSet.m -o /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V20FrameSet.o0#
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V20FrameSet.o /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/V20FrameSet.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V23FrameSet.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/V23FrameSet.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V23FrameSet.o /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V23FrameSet.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305054004.028721
+e305054004.674726
+r1
+xCompileC
+xbuild/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V23FrameSet.o
+x/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V23FrameSet.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V23FrameSet.m: In function '-[V23FrameSet getFrameID]':
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V23FrameSet.m:179: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)
+lSLF07#2@83"Compile /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V23FrameSet.m305054004#305054004#0(365"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V23FrameSet.m: In function '-[V23FrameSet getFrameID]':/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V23FrameSet.m:179: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)1(22@156"'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)305054004#118#247#0(6@75"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V23FrameSet.m304111199#179#0#179#0#33"'*' is deprecated (declared at *)0(0#0#75"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V23FrameSet.m8659425792#1117"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -D__APPLE__ -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/ID3.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/include -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources -c /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V23FrameSet.m -o /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V23FrameSet.o0#
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V23FrameSet.o /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/V23FrameSet.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V24FrameSet.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/V24FrameSet.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V24FrameSet.o /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V24FrameSet.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305054004.626954
+e305054005.312224
+r1
+xCompileC
+xbuild/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V24FrameSet.o
+x/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V24FrameSet.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V24FrameSet.m: In function '-[V24FrameSet getFrameID]':
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V24FrameSet.m:279: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)
+lSLF07#2@83"Compile /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V24FrameSet.m305054004#305054005#0(365"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V24FrameSet.m: In function '-[V24FrameSet getFrameID]':/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V24FrameSet.m:279: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)1(22@156"'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)305054005#118#247#0(6@75"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V24FrameSet.m304111199#279#0#279#0#33"'*' is deprecated (declared at *)0(0#0#75"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V24FrameSet.m8677168096#1117"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -D__APPLE__ -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/ID3.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/include -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources -c /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V24FrameSet.m -o /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V24FrameSet.o0#
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/V24FrameSet.o /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/V24FrameSet.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V1Tag.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V1Tag.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V1Tag.o /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305054001.239915
+e305054002.975285
+r1
+xCompileC
+xbuild/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V1Tag.o
+x/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m: In function '-[id3V1Tag getYear]':
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m:104: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m: In function '-[id3V1Tag getString:length:]':
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m:135: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m: In function '-[id3V1Tag setFieldWithString:offset:length:]':
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m:297: warning: 'lossyCString' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:368)
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m: In function '-[id3V1Tag setFieldWithNumber:offset:length:]':
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m:311: warning: 'getCString:maxLength:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:371)
+lSLF07#2@80"Compile /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m305054001#305054002#0(1457"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m: In function '-[id3V1Tag getYear]':/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m:104: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m: In function '-[id3V1Tag getString:length:]':/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m:135: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m: In function '-[id3V1Tag setFieldWithString:offset:length:]':/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m:297: warning: 'lossyCString' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:368)/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m: In function '-[id3V1Tag setFieldWithNumber:offset:length:]':/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m:311: warning: 'getCString:maxLength:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:371)4(22@156"'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)305054002#109#244#0(6@72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m304111235#104#0#104#0#33"'*' is deprecated (declared at *)0(22@156"'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)305054002#472#244#0(6@72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m304111235#135#0#135#0#33"'*' is deprecated (declared at *)0(22@143"'lossyCString' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:368)305054002#851#231#0(6@72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m304111235#297#0#297#0#33"'*' is deprecated (declared at *)0(22@152"'getCString:maxLength:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:371)305054002#1217#240#0(6@72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m304111235#311#0#311#0#33"'*' is deprecated (declared at *)0(0#0#72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m8672763488#1111"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -D__APPLE__ -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/ID3.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/include -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources -c /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.m -o /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V1Tag.o0#
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V1Tag.o /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V1Tag.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V2Frame.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V2Frame.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V2Frame.o /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305054001.240823
+e305054003.058256
+r1
+xCompileC
+xbuild/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V2Frame.o
+x/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.m: In function '-[id3V2Frame genreStringFromArray:]':
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.m:641: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.m: In function '-[id3V2Frame genreArrayFromFrame]':
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.m:660: warning: 'getCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:370)
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.m:691: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.m:706: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.m:712: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)
+lSLF07#2@82"Compile /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.m305054001#305054003#0(1468"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.m: In function '-[id3V2Frame genreStringFromArray:]':/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.m:641: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.m: In function '-[id3V2Frame genreArrayFromFrame]':/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.m:660: warning: 'getCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:370)/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.m:691: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.m:706: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.m:712: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)5(22@156"'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)305054002#127#246#0(6@74"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.m304665223#641#0#641#0#33"'*' is deprecated (declared at *)0(22@142"'getCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:370)305054002#498#232#0(6@74"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.m304665223#660#0#660#0#33"'*' is deprecated (declared at *)0(22@156"'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)305054002#730#246#0(6@74"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.m304665223#691#0#691#0#33"'*' is deprecated (declared at *)0(22@156"'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)305054002#976#246#0(6@74"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.m304665223#706#0#706#0#33"'*' is deprecated (declared at *)0(22@156"'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)305054002#1222#246#0(6@74"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.m304665223#712#0#712#0#33"'*' is deprecated (declared at *)0(0#0#74"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.m8672237184#1115"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -D__APPLE__ -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/ID3.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/include -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources -c /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.m -o /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V2Frame.o0#
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V2Frame.o /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V2Frame.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V2Tag.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V2Tag.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V2Tag.o /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305054002.975794
+e305054003.983123
+r1
+xCompileC
+xbuild/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V2Tag.o
+x/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m: In function '-[id3V2Tag dropTag:]':
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:342: warning: 'fileSystemAttributesAtPath:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:165)
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:385: warning: 'removeFileAtPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:174)
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:386: warning: 'movePath:toPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:173)
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:387: warning: 'removeFileAtPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:174)
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m: In function '-[id3V2Tag writeTag]':
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:428: warning: 'fileSystemAttributesAtPath:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:165)
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:431: warning: 'lossyCString' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:368)
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:445: warning: 'lossyCString' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:368)
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:525: warning: 'removeFileAtPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:174)
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:526: warning: 'movePath:toPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:173)
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:527: warning: 'removeFileAtPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:174)
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m: In function '-[id3V2Tag getImage]':
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:1482: warning: 'stringWithCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:386)
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:1483: warning: 'stringWithCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:386)
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:1484: warning: 'stringWithCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:386)
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m: In function '-[id3V2Tag getImageFrom2Frame:]':
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:1572: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:1587: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m: In function '-[id3V2Tag getImageFrom3Frame:]':
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:1639: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)
+o/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:1656: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)
+lSLF07#2@80"Compile /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m305054002#305054003#0(4722"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m: In function '-[id3V2Tag dropTag:]':/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:342: warning: 'fileSystemAttributesAtPath:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:165)/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:385: warning: 'removeFileAtPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:174)/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:386: warning: 'movePath:toPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:173)/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:387: warning: 'removeFileAtPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:174)/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m: In function '-[id3V2Tag writeTag]':/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:428: warning: 'fileSystemAttributesAtPath:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:165)/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:431: warning: 'lossyCString' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:368)/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:445: warning: 'lossyCString' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:368)/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:525: warning: 'removeFileAtPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:174)/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:526: warning: 'movePath:toPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:173)/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:527: warning: 'removeFileAtPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:174)/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m: In function '-[id3V2Tag getImage]':/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:1482: warning: 'stringWithCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:386)/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:1483: warning: 'stringWithCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:386)/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:1484: warning: 'stringWithCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:386)/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m: In function '-[id3V2Tag getImageFrom2Frame:]':/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:1572: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:1587: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m: In function '-[id3V2Tag getImageFrom3Frame:]':/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:1639: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m:1656: warning: 'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)17(22@163"'fileSystemAttributesAtPath:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:165)305054003#110#251#0(6@72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m304111199#342#0#342#0#33"'*' is deprecated (declared at *)0(22@161"'removeFileAtPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:174)305054003#361#249#0(6@72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m304111199#385#0#385#0#33"'*' is deprecated (declared at *)0(22@160"'movePath:toPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:173)305054003#610#248#0(6@72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m304111199#386#0#386#0#33"'*' is deprecated (declared at *)0(22@161"'removeFileAtPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:174)305054003#858#249#0(6@72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m304111199#387#0#387#0#33"'*' is deprecated (declared at *)0(22@163"'fileSystemAttributesAtPath:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:165)305054003#1217#251#0(6@72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m304111199#428#0#428#0#33"'*' is deprecated (declared at *)0(22@143"'lossyCString' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:368)305054003#1468#231#0(6@72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m304111199#431#0#431#0#33"'*' is deprecated (declared at *)0(22@143"'lossyCString' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:368)305054003#1699#231#0(6@72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m304111199#445#0#445#0#33"'*' is deprecated (declared at *)0(22@161"'removeFileAtPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:174)305054003#1930#249#0(6@72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m304111199#525#0#525#0#33"'*' is deprecated (declared at *)0(22@160"'movePath:toPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:173)305054003#2179#248#0(6@72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m304111199#526#0#526#0#33"'*' is deprecated (declared at *)0(22@161"'removeFileAtPath:handler:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSFileManager.h:174)305054003#2427#249#0(6@72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m304111199#527#0#527#0#33"'*' is deprecated (declared at *)0(22@149"'stringWithCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:386)305054003#2786#238#0(6@72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m304111199#1482#0#1482#0#33"'*' is deprecated (declared at *)0(22@149"'stringWithCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:386)305054003#3024#238#0(6@72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m304111199#1483#0#1483#0#33"'*' is deprecated (declared at *)0(22@149"'stringWithCString:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:386)305054003#3262#238#0(6@72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m304111199#1484#0#1484#0#33"'*' is deprecated (declared at *)0(22@156"'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)305054003#3621#245#0(6@72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m304111199#1572#0#1572#0#33"'*' is deprecated (declared at *)0(22@156"'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)305054003#3866#245#0(6@72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m304111199#1587#0#1587#0#33"'*' is deprecated (declared at *)0(22@156"'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)305054003#4232#245#0(6@72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m304111199#1639#0#1639#0#33"'*' is deprecated (declared at *)0(22@156"'stringWithCString:length:' is deprecated (declared at /Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSString.h:385)305054003#4477#245#0(6@72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m304111199#1656#0#1656#0#33"'*' is deprecated (declared at *)0(0#0#72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m8666972736#1111"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -D__APPLE__ -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/ID3.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/include -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources -c /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.m -o /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V2Tag.o0#
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/id3V2Tag.o /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V2Tag.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/md5.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/md5.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/md5.o /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/md5.c normal i386 c com.apple.compilers.gcc.4_2
+s305054005.312331
+e305054005.493252
+r1
+xCompileC
+xbuild/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/md5.o
+x/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/md5.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/md5.c305054005#305054005#0(0"0(0#0#67"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/md5.c8677548448#1091"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -D__APPLE__ -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/ID3.hmap -Wmost -Wno-four-char-constants -Wno-unknown-pragmas -F/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/include -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/DerivedSources -c /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/md5.c -o /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/md5.o0#
+
+CCompileC build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/md5.o /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/md5.c normal i386 c com.apple.compilers.gcc.4_2
+r0
+
+CCopyPlistFile /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/data.plist libid3/data.plist
+r0
+
+CCopyPlistFile /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/data.plist libid3/data.plist
+s305054001.186500
+e305054001.238714
+r1
+xCopyPlistFile
+x/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/data.plist
+xlibid3/data.plist
+lSLF07#2@22"Copy libid3/data.plist305054001#305054001#0(0"0(0#0#72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/data.plist8673680960#282"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copyplist libid3/data.plist --outdir /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources0#
+
+CCopyPlistFile /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/data.plist libid3/data.plist
+r0
+
+CCopyStringsFile /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCopyStringsFile /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s305054001.185505
+e305054001.239831
+r1
+xCopyStringsFile
+x/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings305054001#305054001#0(0"0(0#0#86"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/English.lproj/InfoPlist.strings8677010336#402"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/English.lproj0#
+
+CCopyStringsFile /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCpHeader build/Debug/ID3.framework/Versions/A/Headers/MP3Header.h libid3/MP3Header.h
+s305054001.175494
+e305054001.184681
+r1
+xCpHeader
+xbuild/Debug/ID3.framework/Versions/A/Headers/MP3Header.h
+xlibid3/MP3Header.h
+lSLF07#2@23"Copy libid3/MP3Header.h305054001#305054001#0(0"0(0#0#73"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/MP3Header.h8677146304#384"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/MP3Header.h /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/ID3.framework/Versions/A/Headers/TagAPI.h libid3/TagAPI.h
+s305054001.161557
+e305054001.180392
+r1
+xCpHeader
+xbuild/Debug/ID3.framework/Versions/A/Headers/TagAPI.h
+xlibid3/TagAPI.h
+lSLF07#2@20"Copy libid3/TagAPI.h305054001#305054001#0(0"0(0#0#70"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/TagAPI.h8678156864#381"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/TagAPI.h /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/ID3.framework/Versions/A/Headers/id3V1Tag.h libid3/id3V1Tag.h
+s305054001.158646
+e305054001.180052
+r1
+xCpHeader
+xbuild/Debug/ID3.framework/Versions/A/Headers/id3V1Tag.h
+xlibid3/id3V1Tag.h
+lSLF07#2@22"Copy libid3/id3V1Tag.h305054001#305054001#0(0"0(0#0#72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.h8669553312#383"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V1Tag.h /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/ID3.framework/Versions/A/Headers/id3V2Frame.h libid3/id3V2Frame.h
+s305054001.159811
+e305054001.180178
+r1
+xCpHeader
+xbuild/Debug/ID3.framework/Versions/A/Headers/id3V2Frame.h
+xlibid3/id3V2Frame.h
+lSLF07#2@24"Copy libid3/id3V2Frame.h305054001#305054001#0(0"0(0#0#74"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.h8680577504#385"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Frame.h /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/ID3.framework/Versions/A/Headers/id3V2Tag.h libid3/id3V2Tag.h
+s305054001.160858
+e305054001.180286
+r1
+xCpHeader
+xbuild/Debug/ID3.framework/Versions/A/Headers/id3V2Tag.h
+xlibid3/id3V2Tag.h
+lSLF07#2@22"Copy libid3/id3V2Tag.h305054001#305054001#0(0"0(0#0#72"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.h8679927904#383"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/id3V2Tag.h /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Headers0#
+
+CCpHeader build/Debug/ID3.framework/Versions/A/PrivateHeaders/V20FrameSet.h libid3/V20FrameSet.h
+s305054001.165524
+e305054001.180499
+r1
+xCpHeader
+xbuild/Debug/ID3.framework/Versions/A/PrivateHeaders/V20FrameSet.h
+xlibid3/V20FrameSet.h
+lSLF07#2@25"Copy libid3/V20FrameSet.h305054001#305054001#0(0"0(0#0#75"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V20FrameSet.h8677938752#393"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V20FrameSet.h /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/PrivateHeaders0#
+
+CCpHeader build/Debug/ID3.framework/Versions/A/PrivateHeaders/V23FrameSet.h libid3/V23FrameSet.h
+s305054001.170253
+e305054001.185433
+r1
+xCpHeader
+xbuild/Debug/ID3.framework/Versions/A/PrivateHeaders/V23FrameSet.h
+xlibid3/V23FrameSet.h
+lSLF07#2@25"Copy libid3/V23FrameSet.h305054001#305054001#0(0"0(0#0#75"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V23FrameSet.h8677599264#393"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V23FrameSet.h /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/PrivateHeaders0#
+
+CCpHeader build/Debug/ID3.framework/Versions/A/PrivateHeaders/V24FrameSet.h libid3/V24FrameSet.h
+s305054001.174138
+e305054001.180688
+r1
+xCpHeader
+xbuild/Debug/ID3.framework/Versions/A/PrivateHeaders/V24FrameSet.h
+xlibid3/V24FrameSet.h
+lSLF07#2@25"Copy libid3/V24FrameSet.h305054001#305054001#0(0"0(0#0#75"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V24FrameSet.h8677457728#393"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/libid3/V24FrameSet.h /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/PrivateHeaders0#
+
+CLd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/ID3 normal i386
+s305790793.899623
+e305790795.033837
+r1
+xLd
+x/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/ID3
+xnormal
+xi386
+old: warning: directory '/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/../../build/Debug' following -L not found
+lSLF07#2@108"Link /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/ID3305790793#305790795#0(129"ld: warning: directory '/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/../../build/Debug' following -L not found1(22@115"Directory '/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/../../build/Debug' following -L not found305790795#0#129#0(6@0"305790795#0#0#0#0#0"0(0#0#0"8614512032#926"    cd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -dynamiclib -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug -L/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/../../build/Debug -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug -filelist /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/ID3.LinkFileList -install_name @executable_path/../Frameworks/ID3.framework/Versions/A/ID3 -mmacosx-version-min=10.6 -seg1addr 0x20000000 -framework Cocoa -lz.1.2.3 -prebind -single_module -compatibility_version 1 -current_version 1 -o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/ID30#
+
+CLd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/ID3 normal i386
+s305054005.493352
+e305054005.675408
+r1
+xLd
+x/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/ID3
+xnormal
+xi386
+old: warning: directory '/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/../../build/Debug' following -L not found
+lSLF07#2@100"Link /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/ID3305054005#305054005#0(121"ld: warning: directory '/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/../../build/Debug' following -L not found1(22@107"Directory '/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/../../build/Debug' following -L not found305054005#0#121#0(6@0"305054005#0#0#0#0#0"0(0#0#0"8650975872#878"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -dynamiclib -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug -L/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/../../build/Debug -F/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug -filelist /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/ID3.build/Debug/ID3Tag_10.4_Universal.build/Objects-normal/i386/ID3.LinkFileList -install_name @executable_path/../Frameworks/ID3.framework/Versions/A/ID3 -mmacosx-version-min=10.6 -seg1addr 0x20000000 -framework Cocoa -lz.1.2.3 -prebind -single_module -compatibility_version 1 -current_version 1 -o /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/ID30#
+
+CLd /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/ID3 normal i386
+r0
+
+CProcessInfoPlistFile /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/Info.plist Info-ID3Tag__Upgraded_-1.plist
+r0
+
+CProcessInfoPlistFile /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/Info.plist Info-ID3Tag__Upgraded_-1.plist
+s305054001.144811
+e305054001.158560
+r1
+xProcessInfoPlistFile
+x/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/Info.plist
+xInfo-ID3Tag__Upgraded_-1.plist
+lSLF07#2@38"Process Info-ID3Tag__Upgraded_-1.plist305054001#305054001#0(0"0(0#0#85"/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/Info-ID3Tag__Upgraded_-1.plist8601725664#276"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    builtin-infoPlistUtility Info-ID3Tag__Upgraded_-1.plist -expandbuildsettings -platform macosx -o /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/Info.plist0#
+
+CProcessInfoPlistFile /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/A/Resources/Info.plist Info-ID3Tag__Upgraded_-1.plist
+r0
+
+CSymLink /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Headers Versions/Current/Headers
+r0
+
+CSymLink /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/ID3 Versions/Current/ID3
+r0
+
+CSymLink /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/PrivateHeaders Versions/Current/PrivateHeaders
+r0
+
+CSymLink /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Resources Versions/Current/Resources
+r0
+
+CSymLink /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/Current A
+r0
+
+CSymLink /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Headers Versions/Current/Headers
+s305054001.135285
+e305054001.138994
+r1
+xSymLink
+x/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Headers
+xVersions/Current/Headers
+lSLF07#2@96"Process /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Headers305054001#305054001#0(0"0(0#0#0"8632324160#192"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    /bin/ln -sf Versions/Current/Headers /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Headers0#
+
+CSymLink /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/ID3 Versions/Current/ID3
+s305054001.139061
+e305054001.144723
+r1
+xSymLink
+x/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/ID3
+xVersions/Current/ID3
+lSLF07#2@92"Process /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/ID3305054001#305054001#0(0"0(0#0#0"8618231648#184"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    /bin/ln -sf Versions/Current/ID3 /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/ID30#
+
+CSymLink /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/PrivateHeaders Versions/Current/PrivateHeaders
+s305054001.138063
+e305054001.141915
+r1
+xSymLink
+x/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/PrivateHeaders
+xVersions/Current/PrivateHeaders
+lSLF07#2@103"Process /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/PrivateHeaders305054001#305054001#0(0"0(0#0#0"8627143872#206"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    /bin/ln -sf Versions/Current/PrivateHeaders /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/PrivateHeaders0#
+
+CSymLink /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Resources Versions/Current/Resources
+s305054001.129046
+e305054001.135213
+r1
+xSymLink
+x/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Resources
+xVersions/Current/Resources
+lSLF07#2@98"Process /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Resources305054001#305054001#0(0"0(0#0#0"8632823008#196"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    /bin/ln -sf Versions/Current/Resources /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Resources0#
+
+CSymLink /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/Current A
+s305054001.128174
+e305054001.134988
+r1
+xSymLink
+x/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/Current
+xA
+lSLF07#2@105"Process /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/Current305054001#305054001#0(0"0(0#0#0"8636150080#178"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    /bin/ln -sf A /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/Current0#
+
+CSymLink /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Headers Versions/Current/Headers
+r0
+
+CSymLink /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/ID3 Versions/Current/ID3
+r0
+
+CSymLink /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/PrivateHeaders Versions/Current/PrivateHeaders
+r0
+
+CSymLink /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Resources Versions/Current/Resources
+r0
+
+CSymLink /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/Versions/Current A
+r0
+
+CTouch /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework
+s305790795.033921
+e305790795.105094
+r1
+xTouch
+x/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework
+lSLF07#2@94"Touch /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework305790795#305790795#0(0"0(0#0#0"8612458368#181"    cd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3    /usr/bin/touch -c /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework0#
+
+CTouch /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework
+s305054005.675498
+e305054005.679904
+r1
+xTouch
+x/Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework
+lSLF07#2@86"Touch /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework305054005#305054005#0(0"0(0#0#0"8681907360#165"    cd /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3    /usr/bin/touch -c /Users/radif.sharafullin/Desktop/SSChurchPodcaster/ID3/build/Debug/ID3.framework0#
+
+CTouch /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework
+r0
+

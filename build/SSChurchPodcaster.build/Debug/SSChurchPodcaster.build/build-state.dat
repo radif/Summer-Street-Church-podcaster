@@ -1,0 +1,1081 @@
+TSSChurchPodcaster
+v7
+r0
+t305790889.407362
+cCheck dependencies
+cProcessInfoPlistFile /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Info.plist SSChurchPodcaster-Info.plist
+cCopyStringsFile /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/English.lproj/MainMenu.xib
+cCpResource build/Debug/SSChurchPodcaster.app/Contents/Resources/audio.png audio.png
+cCpResource build/Debug/SSChurchPodcaster.app/Contents/Resources/icon.icns icon.icns
+cCpResource build/Debug/SSChurchPodcaster.app/Contents/Resources/delete-icon.png delete-icon.png
+cCpResource build/Debug/SSChurchPodcaster.app/Contents/Resources/podcasting podcasting
+cPBXCp build/Debug/SSChurchPodcaster.app/Contents/Frameworks/ID3.framework ID3/build/Debug/ID3.framework
+cPBXCp build/Debug/SSChurchPodcaster.app/Contents/Frameworks/LAME.framework LAME.framework
+cProcessPCH /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/SSChurchPodcaster_Prefix-cgpkhsmxlzytnlcmktxlqwatbgea/SSChurchPodcaster_Prefix.pch.gch SSChurchPodcaster_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cProcessPCH++ /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/SSChurchPodcaster_Prefix-gldjxnbonkikpyfvnohpmisltflb/SSChurchPodcaster_Prefix.pch.gch SSChurchPodcaster_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/main.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/SSChurchPodcasterAppDelegate.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/SSChurchPodcasterAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/AppController.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/AppController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/DropImageView.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/DropImageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/NSImageUtils.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/NSImageUtils.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/S7FTPRequest.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/S7FTPRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/LameHandler.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/LameHandler.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+cCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/FTPHandler.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/FTPHandler.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/WorkFlowController.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/WorkFlowController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/HttpRequest.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/HttpRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/MacOS/SSChurchPodcaster normal i386
+cTouch /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004CAA740B00000000000000EE
+t1286239243
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/NSBitmapImageRep.h
+c000000004C23BD2900000000000020EA
+t1277410601
+s8426
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004C23BF2D00000000000005FF
+t1277411117
+s1535
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/CoreServices.framework/Headers/CoreServices.h
+c000000004A11F0980000000000000400
+t1242689688
+s1024
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004C23AA0400000000000013E6
+t1277405700
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSObject.h
+c000000004C23AA050000000000000EDE
+t1277405701
+s3806
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004BBD2CE90000000000004174
+t1270689001
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/lib/gcc/i686-apple-darwin10/4.2.1/include/stdarg.h
+c000000004A11EB2400000000000010DD
+t1242688292
+s4317
+
+N/System/Library/Frameworks/Carbon.framework/Carbon
+c000000004CD5D645000000000000A5F0
+t1289082437
+s42480
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004B5FA877000000000000A5E0
+t1264560247
+s42464
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/AppController.h
+c000000004C8020EA0000000000000546
+t1283465450
+s1350
+i<Foundation/Foundation.h>
+i"DropImageView.h"
+i"WorkFlowController.h"
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/AppController.m
+c000000004C89C83A0000000000001F11
+t1284098106
+s7953
+i"AppController.h"
+i"SSChurchPodcasterAppDelegate.h"
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/DropImageView.h
+c000000004C5A06CC0000000000000230
+t1280968396
+s560
+i<Cocoa/Cocoa.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/DropImageView.m
+c000000004C5A28830000000000000A22
+t1280977027
+s2594
+i"DropImageView.h"
+i"NSImageUtils.h"
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/English.lproj/InfoPlist.strings
+c000000004C59E59B000000000000002D
+t1280959899
+s45
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/English.lproj/MainMenu.xib
+c000000004C80222F000000000001B5E4
+t1283465775
+s112100
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/FTPHandler.h
+c000000004C7FC48C0000000000000382
+t1283441804
+s898
+i<Foundation/Foundation.h>
+i"S7FTPRequest.h"
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/FTPHandler.m
+c000000004C7FC4AC0000000000000C33
+t1283441836
+s3123
+i"FTPHandler.h"
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/HttpRequest.h
+c000000004A37A7DF00000000000003CD
+t1245161439
+s973
+i<Cocoa/Cocoa.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/HttpRequest.m
+c000000004C7F29A50000000000000B36
+t1283402149
+s2870
+i"HttpRequest.h"
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework
+c000000004C89C7CB00000000000000EE
+t1284097995
+s238
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/ID3
+c000000004C89C7CB0000000000023A5C
+t1284097995
+s146012
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/MP3Header.h
+c0000000045491FD5000000000000062E
+t1162420181
+s1582
+i<Foundation/Foundation.h>
+i<Foundation/NSObject.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/TagAPI.h
+c00000000459D90F9000000000000101B
+t1167954169
+s4123
+i<Foundation/Foundation.h>
+i"id3V2Tag.h"
+i"id3V1Tag.h"
+i"id3V2Frame.h"
+i"MP3Header.h"
+i<Foundation/NSObject.h>
+i"id3V2Tag.h"
+i"id3V1Tag.h"
+i"id3V2Frame.h"
+i"MP3Header.h"
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V1Tag.h
+c0000000045491FD600000000000006AA
+t1162420182
+s1706
+i<Foundation/Foundation.h>
+i<Foundation/NSObject.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V2Frame.h
+c000000004C7882F40000000000000924
+t1282966260
+s2340
+i<Foundation/Foundation.h>
+i<Foundation/NSObject.h>
+i<GNUstepBase/Unicode.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V2Tag.h
+c0000000045491FD60000000000001005
+t1162420182
+s4101
+i<Foundation/Foundation.h>
+i"id3V2Frame.h"
+i"id3V2Frame.h"
+i<Foundation/NSObject.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/LAME.framework
+c000000004C5A264500000000000000EE
+t1280976453
+s238
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/LAME.framework/Headers/lame.h
+c000000004523E86E0000000000009E4D
+t1159981166
+s40525
+i<stdio.h>
+i<stdarg.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/LAME.framework/LAME
+c000000004523E8C7000000000007B494
+t1159981255
+s504980
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/LameHandler.h
+c000000004C7FC5C60000000000000486
+t1283442118
+s1158
+i<Cocoa/Cocoa.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/LameHandler.mm
+c000000004C89C76A0000000000001195
+t1284097898
+s4501
+i<stdio.h>
+i<lame/lame.h>
+i"lameHandler.h"
+i<TagAPI.h>
+i<AppKit/NSBitmapImageRep.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/NSImageUtils.h
+c0000000049A912BC00000000000000F6
+t1235817148
+s246
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/NSImageUtils.m
+c0000000049A912AB0000000000000750
+t1235817131
+s1872
+i"NSImageUtils.h"
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/S7FTPRequest.h
+c000000004AEE7E740000000000001B39
+t1257143924
+s6969
+i<CFNetwork/CFNetwork.h>
+i<Foundation/Foundation.h>
+i<stdio.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/S7FTPRequest.m
+c000000004C7FC4340000000000004E49
+t1283441716
+s20041
+i"S7FTPRequest.h"
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/SSChurchPodcasterAppDelegate.h
+c000000004C59F25100000000000001C3
+t1280963153
+s451
+i<Cocoa/Cocoa.h>
+i"AppController.h"
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/SSChurchPodcasterAppDelegate.m
+c000000004C7855310000000000000289
+t1282954545
+s649
+i"SSChurchPodcasterAppDelegate.h"
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/SSChurchPodcaster_Prefix.pch
+c000000004C59E59B00000000000000A5
+t1280959899
+s165
+i<Cocoa/Cocoa.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/WorkFlowController.h
+c000000004C7FD6F1000000000000066C
+t1283446513
+s1644
+i<Foundation/Foundation.h>
+i"LameHandler.h"
+i"FTPHandler.h"
+i<CoreServices/CoreServices.h>
+i<Carbon/Carbon.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/WorkFlowController.m
+c000000004C801D7700000000000024D2
+t1283464567
+s9426
+i"WorkFlowController.h"
+i"HttpRequest.h"
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/audio.png
+c000000004C5A27200000000000007E11
+t1280976672
+s32273
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app
+t1284098089
+s102
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Frameworks/ID3.framework
+t1284097996
+s238
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Frameworks/LAME.framework
+t1284097996
+s204
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Info.plist
+t1284097995
+s973
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/MacOS/SSChurchPodcaster
+t1284098089
+s96048
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/PkgInfo
+t1284097995
+s8
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1284097996
+s92
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Resources/English.lproj/MainMenu.nib
+t1284097996
+s22504
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Resources/audio.png
+t1284097996
+s32273
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Resources/delete-icon.png
+t1284097996
+s4071
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Resources/icon.icns
+t1284097996
+s80742
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Resources/podcasting
+t1284097996
+s136
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/AppController.o
+t1284098089
+s46328
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/DropImageView.o
+t1284098018
+s24116
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/FTPHandler.o
+t1284098018
+s22664
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/HttpRequest.o
+t1284098019
+s14476
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/LameHandler.o
+t1284098019
+s28680
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/NSImageUtils.o
+t1284098018
+s9432
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/S7FTPRequest.o
+t1284098018
+s66436
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/SSChurchPodcaster.LinkFileList
+c000000004C89C7CB0000000000000610
+t1284097995
+s1552
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/SSChurchPodcasterAppDelegate.o
+t1284098017
+s22552
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/WorkFlowController.o
+t1284098019
+s40356
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/main.o
+t1284098017
+s4896
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/delete-icon.png
+c000000004C376F3D0000000000000FE7
+t1278701373
+s4071
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/icon.icns
+c000000004C7849180000000000013B66
+t1282951448
+s80742
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/main.m
+c000000004C59E59B000000000000010B
+t1280959899
+s267
+i<Cocoa/Cocoa.h>
+
+N/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/podcasting
+c000000004C801DE700000000000000AA
+t1283464679
+s170
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/AppController.h
+c000000004C8020EA0000000000000546
+t1283465450
+s1350
+i<Foundation/Foundation.h>
+i"DropImageView.h"
+i"WorkFlowController.h"
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/AppController.m
+c000000004C89C83A0000000000001F11
+t1284098106
+s7953
+i"AppController.h"
+i"SSChurchPodcasterAppDelegate.h"
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/DropImageView.h
+c000000004C5A06CC0000000000000230
+t1280968396
+s560
+i<Cocoa/Cocoa.h>
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/DropImageView.m
+c000000004C5A28830000000000000A22
+t1280977027
+s2594
+i"DropImageView.h"
+i"NSImageUtils.h"
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/English.lproj/InfoPlist.strings
+c000000004C59E59B000000000000002D
+t1280959899
+s45
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/English.lproj/MainMenu.xib
+c000000004C80222F000000000001B5E4
+t1283465775
+s112100
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/FTPHandler.h
+c000000004C7FC48C0000000000000382
+t1283441804
+s898
+i<Foundation/Foundation.h>
+i"S7FTPRequest.h"
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/FTPHandler.m
+c000000004C7FC4AC0000000000000C33
+t1283441836
+s3123
+i"FTPHandler.h"
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/HttpRequest.h
+c000000004A37A7DF00000000000003CD
+t1245161439
+s973
+i<Cocoa/Cocoa.h>
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/HttpRequest.m
+c000000004C7F29A50000000000000B36
+t1283402149
+s2870
+i"HttpRequest.h"
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework
+c000000004C89C7CB00000000000000EE
+t1284097995
+s238
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/ID3
+c000000004C89C7CB0000000000023A5C
+t1284097995
+s146012
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/MP3Header.h
+c0000000045491FD5000000000000062E
+t1162420181
+s1582
+i<Foundation/Foundation.h>
+i<Foundation/NSObject.h>
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/TagAPI.h
+c00000000459D90F9000000000000101B
+t1167954169
+s4123
+i<Foundation/Foundation.h>
+i"id3V2Tag.h"
+i"id3V1Tag.h"
+i"id3V2Frame.h"
+i"MP3Header.h"
+i<Foundation/NSObject.h>
+i"id3V2Tag.h"
+i"id3V1Tag.h"
+i"id3V2Frame.h"
+i"MP3Header.h"
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V1Tag.h
+c0000000045491FD600000000000006AA
+t1162420182
+s1706
+i<Foundation/Foundation.h>
+i<Foundation/NSObject.h>
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V2Frame.h
+c000000004C7882F40000000000000924
+t1282966260
+s2340
+i<Foundation/Foundation.h>
+i<Foundation/NSObject.h>
+i<GNUstepBase/Unicode.h>
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/ID3/libid3/id3V2Tag.h
+c0000000045491FD60000000000001005
+t1162420182
+s4101
+i<Foundation/Foundation.h>
+i"id3V2Frame.h"
+i"id3V2Frame.h"
+i<Foundation/NSObject.h>
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/LAME.framework
+c000000004C5A264500000000000000EE
+t1280976453
+s238
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/LAME.framework/Headers/lame.h
+c000000004523E86E0000000000009E4D
+t1159981166
+s40525
+i<stdio.h>
+i<stdarg.h>
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/LAME.framework/LAME
+c000000004523E8C7000000000007B494
+t1159981255
+s504980
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/LameHandler.h
+c000000004C7FC5C60000000000000486
+t1283442118
+s1158
+i<Cocoa/Cocoa.h>
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/LameHandler.mm
+c000000004C89C76A0000000000001195
+t1284097898
+s4501
+i<stdio.h>
+i<lame/lame.h>
+i"lameHandler.h"
+i<TagAPI.h>
+i<AppKit/NSBitmapImageRep.h>
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/NSImageUtils.h
+c0000000049A912BC00000000000000F6
+t1235817148
+s246
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/NSImageUtils.m
+c0000000049A912AB0000000000000750
+t1235817131
+s1872
+i"NSImageUtils.h"
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/S7FTPRequest.h
+c000000004AEE7E740000000000001B39
+t1257143924
+s6969
+i<CFNetwork/CFNetwork.h>
+i<Foundation/Foundation.h>
+i<stdio.h>
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/S7FTPRequest.m
+c000000004C7FC4340000000000004E49
+t1283441716
+s20041
+i"S7FTPRequest.h"
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/SSChurchPodcasterAppDelegate.h
+c000000004C59F25100000000000001C3
+t1280963153
+s451
+i<Cocoa/Cocoa.h>
+i"AppController.h"
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/SSChurchPodcasterAppDelegate.m
+c000000004C7855310000000000000289
+t1282954545
+s649
+i"SSChurchPodcasterAppDelegate.h"
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/SSChurchPodcaster_Prefix.pch
+c000000004C59E59B00000000000000A5
+t1280959899
+s165
+i<Cocoa/Cocoa.h>
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/WorkFlowController.h
+c000000004C7FD6F1000000000000066C
+t1283446513
+s1644
+i<Foundation/Foundation.h>
+i"LameHandler.h"
+i"FTPHandler.h"
+i<CoreServices/CoreServices.h>
+i<Carbon/Carbon.h>
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/WorkFlowController.m
+c000000004C801D7700000000000024D2
+t1283464567
+s9426
+i"WorkFlowController.h"
+i"HttpRequest.h"
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/audio.png
+c000000004C5A27200000000000007E11
+t1280976672
+s32273
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app
+t1284098089
+s102
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Frameworks/ID3.framework
+t1284097996
+s238
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Frameworks/LAME.framework
+t1284097996
+s204
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Info.plist
+t1284097995
+s973
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/MacOS/SSChurchPodcaster
+t1284098089
+s96048
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/PkgInfo
+t1284097995
+s8
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1284097996
+s92
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Resources/English.lproj/MainMenu.nib
+t1284097996
+s22504
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Resources/audio.png
+t1284097996
+s32273
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Resources/delete-icon.png
+t1284097996
+s4071
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Resources/icon.icns
+t1284097996
+s80742
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Resources/podcasting
+t1284097996
+s136
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/x86_64/AppController.o
+t2
+s0
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/x86_64/DropImageView.o
+t2
+s0
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/x86_64/FTPHandler.o
+t2
+s0
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/x86_64/HttpRequest.o
+t2
+s0
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/x86_64/LameHandler.o
+t2
+s0
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/x86_64/NSImageUtils.o
+t2
+s0
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/x86_64/S7FTPRequest.o
+t2
+s0
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/x86_64/SSChurchPodcaster.LinkFileList
+c00000000000000000000000000000000
+t2
+s0
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/x86_64/SSChurchPodcasterAppDelegate.o
+t2
+s0
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/x86_64/WorkFlowController.o
+t2
+s0
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/x86_64/main.o
+t2
+s0
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/delete-icon.png
+c000000004C376F3D0000000000000FE7
+t1278701373
+s4071
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/icon.icns
+c000000004C7849180000000000013B66
+t1282951448
+s80742
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/main.m
+c000000004C59E59B000000000000010B
+t1280959899
+s267
+i<Cocoa/Cocoa.h>
+
+N/Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/podcasting
+c000000004C801DE700000000000000AA
+t1283464679
+s170
+
+N/var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/SSChurchPodcaster_Prefix-cgpkhsmxlzytnlcmktxlqwatbgea/SSChurchPodcaster_Prefix.pch.gch
+t1284098015
+s56903472
+
+N/var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/SSChurchPodcaster_Prefix-gldjxnbonkikpyfvnohpmisltflb/SSChurchPodcaster_Prefix.pch.gch
+t1284098016
+s61896368
+
+N/var/folders/C0/C0AJ8AbDEriVob8iJiRZjU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SSChurchPodcaster_Prefix-dzlecnrcsbhbofcvborivshdfukd/SSChurchPodcaster_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/C0/C0AJ8AbDEriVob8iJiRZjU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SSChurchPodcaster_Prefix-erdwdrukxkrafyaspvomrzoifzfx/SSChurchPodcaster_Prefix.pch.gch
+t2
+s0
+
+NSSChurchPodcaster-Info.plist
+c000000004C78499700000000000003F3
+t1282951575
+s1011
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies305790887#305790888#0(0"0(0#1#0"8627341728#0"0#
+
+CCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/AppController.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/AppController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305790887.962631
+e305790889.278525
+r1
+xCompileC
+xbuild/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/AppController.o
+x/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/AppController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/AppController.m305790887#305790889#0(0"0(0#0#74"/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/AppController.m8623432064#1968"    cd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-generated-files.hmap -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-own-target-headers.hmap -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-all-target-headers.hmap -iquote /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-project-headers.hmap -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/include -IID3 -IID3/libid3 -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/DerivedSources -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/SSChurchPodcaster_Prefix-cgpkhsmxlzytnlcmktxlqwatbgea/SSChurchPodcaster_Prefix.pch -c /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/AppController.m -o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/AppController.o0#
+
+CCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/DropImageView.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/DropImageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305790817.852548
+e305790818.231639
+r1
+xCompileC
+xbuild/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/DropImageView.o
+x/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/DropImageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@82"Compile /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/DropImageView.m305790817#305790818#0(0"0(0#0#74"/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/DropImageView.m8614763680#1968"    cd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-generated-files.hmap -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-own-target-headers.hmap -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-all-target-headers.hmap -iquote /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-project-headers.hmap -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/include -IID3 -IID3/libid3 -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/DerivedSources -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/SSChurchPodcaster_Prefix-cgpkhsmxlzytnlcmktxlqwatbgea/SSChurchPodcaster_Prefix.pch -c /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/DropImageView.m -o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/DropImageView.o0#
+
+CCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/FTPHandler.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/FTPHandler.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305790818.705439
+e305790818.999240
+r1
+xCompileC
+xbuild/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/FTPHandler.o
+x/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/FTPHandler.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@79"Compile /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/FTPHandler.m305790818#305790819#0(0"0(0#0#71"/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/FTPHandler.m8617509376#1962"    cd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-generated-files.hmap -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-own-target-headers.hmap -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-all-target-headers.hmap -iquote /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-project-headers.hmap -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/include -IID3 -IID3/libid3 -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/DerivedSources -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/SSChurchPodcaster_Prefix-cgpkhsmxlzytnlcmktxlqwatbgea/SSChurchPodcaster_Prefix.pch -c /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/FTPHandler.m -o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/FTPHandler.o0#
+
+CCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/HttpRequest.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/HttpRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305790819.094657
+e305790819.480902
+r1
+xCompileC
+xbuild/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/HttpRequest.o
+x/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/HttpRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@80"Compile /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/HttpRequest.m305790819#305790819#0(0"0(0#0#72"/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/HttpRequest.m8615859136#1964"    cd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-generated-files.hmap -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-own-target-headers.hmap -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-all-target-headers.hmap -iquote /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-project-headers.hmap -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/include -IID3 -IID3/libid3 -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/DerivedSources -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/SSChurchPodcaster_Prefix-cgpkhsmxlzytnlcmktxlqwatbgea/SSChurchPodcaster_Prefix.pch -c /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/HttpRequest.m -o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/HttpRequest.o0#
+
+CCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/LameHandler.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/LameHandler.mm normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s305790818.278264
+e305790819.094553
+r1
+xCompileC
+xbuild/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/LameHandler.o
+x/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/LameHandler.mm
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/LameHandler.mm305790818#305790819#0(0"0(0#0#73"/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/LameHandler.mm8611329024#1984"    cd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++ -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-generated-files.hmap -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-own-target-headers.hmap -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-all-target-headers.hmap -iquote /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-project-headers.hmap -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/include -IID3 -IID3/libid3 -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/DerivedSources -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/SSChurchPodcaster_Prefix-gldjxnbonkikpyfvnohpmisltflb/SSChurchPodcaster_Prefix.pch -c /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/LameHandler.mm -o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/LameHandler.o0#
+
+CCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/NSImageUtils.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/NSImageUtils.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305790818.056798
+e305790818.278160
+r1
+xCompileC
+xbuild/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/NSImageUtils.o
+x/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/NSImageUtils.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/NSImageUtils.m305790818#305790818#0(0"0(0#0#73"/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/NSImageUtils.m8600308960#1966"    cd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-generated-files.hmap -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-own-target-headers.hmap -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-all-target-headers.hmap -iquote /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-project-headers.hmap -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/include -IID3 -IID3/libid3 -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/DerivedSources -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/SSChurchPodcaster_Prefix-cgpkhsmxlzytnlcmktxlqwatbgea/SSChurchPodcaster_Prefix.pch -c /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/NSImageUtils.m -o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/NSImageUtils.o0#
+
+CCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/S7FTPRequest.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/S7FTPRequest.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305790818.231741
+e305790818.705338
+r1
+xCompileC
+xbuild/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/S7FTPRequest.o
+x/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/S7FTPRequest.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@81"Compile /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/S7FTPRequest.m305790818#305790818#0(0"0(0#0#73"/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/S7FTPRequest.m8614395712#1966"    cd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-generated-files.hmap -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-own-target-headers.hmap -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-all-target-headers.hmap -iquote /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-project-headers.hmap -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/include -IID3 -IID3/libid3 -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/DerivedSources -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/SSChurchPodcaster_Prefix-cgpkhsmxlzytnlcmktxlqwatbgea/SSChurchPodcaster_Prefix.pch -c /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/S7FTPRequest.m -o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/S7FTPRequest.o0#
+
+CCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/SSChurchPodcasterAppDelegate.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/SSChurchPodcasterAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305790816.648563
+e305790817.852438
+r1
+xCompileC
+xbuild/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/SSChurchPodcasterAppDelegate.o
+x/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/SSChurchPodcasterAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@97"Compile /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/SSChurchPodcasterAppDelegate.m305790816#305790817#0(0"0(0#0#89"/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/SSChurchPodcasterAppDelegate.m8600119488#1998"    cd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-generated-files.hmap -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-own-target-headers.hmap -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-all-target-headers.hmap -iquote /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-project-headers.hmap -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/include -IID3 -IID3/libid3 -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/DerivedSources -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/SSChurchPodcaster_Prefix-cgpkhsmxlzytnlcmktxlqwatbgea/SSChurchPodcaster_Prefix.pch -c /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/SSChurchPodcasterAppDelegate.m -o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/SSChurchPodcasterAppDelegate.o0#
+
+CCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/WorkFlowController.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/WorkFlowController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305790818.999343
+e305790819.658574
+r1
+xCompileC
+xbuild/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/WorkFlowController.o
+x/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/WorkFlowController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@87"Compile /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/WorkFlowController.m305790818#305790819#0(0"0(0#0#79"/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/WorkFlowController.m8616144256#1978"    cd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-generated-files.hmap -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-own-target-headers.hmap -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-all-target-headers.hmap -iquote /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-project-headers.hmap -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/include -IID3 -IID3/libid3 -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/DerivedSources -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/SSChurchPodcaster_Prefix-cgpkhsmxlzytnlcmktxlqwatbgea/SSChurchPodcaster_Prefix.pch -c /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/WorkFlowController.m -o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/WorkFlowController.o0#
+
+CCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/main.o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s305790816.630461
+e305790817.029510
+r1
+xCompileC
+xbuild/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/main.o
+x/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@73"Compile /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/main.m305790816#305790817#0(0"0(0#0#65"/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/main.m8603875392#1950"    cd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-generated-files.hmap -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-own-target-headers.hmap -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-all-target-headers.hmap -iquote /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-project-headers.hmap -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/include -IID3 -IID3/libid3 -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/DerivedSources -include /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/SSChurchPodcaster_Prefix-cgpkhsmxlzytnlcmktxlqwatbgea/SSChurchPodcaster_Prefix.pch -c /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/main.m -o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/main.o0#
+
+CCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/x86_64/AppController.o /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/AppController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/x86_64/DropImageView.o /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/DropImageView.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/x86_64/FTPHandler.o /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/FTPHandler.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/x86_64/HttpRequest.o /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/HttpRequest.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/x86_64/LameHandler.o /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/LameHandler.mm normal x86_64 objective-c++ com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/x86_64/NSImageUtils.o /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/NSImageUtils.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/x86_64/S7FTPRequest.o /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/S7FTPRequest.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/x86_64/SSChurchPodcasterAppDelegate.o /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/SSChurchPodcasterAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/x86_64/WorkFlowController.o /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/WorkFlowController.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/x86_64/main.o /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileXIB /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/English.lproj/MainMenu.xib
+s305790795.237190
+e305790796.907589
+r1
+xCompileXIB
+x/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/English.lproj/MainMenu.xib
+o/* com.apple.ibtool.document.notices */
+o/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/English.lproj/MainMenu.xib:641: note: This view is clipping its content.
+o/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/English.lproj/MainMenu.xib:639: note: This view is clipping its content.
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib305790795#305790796#0(304"/* com.apple.ibtool.document.notices *//Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/English.lproj/MainMenu.xib:641: note: This view is clipping its content./Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/English.lproj/MainMenu.xib:639: note: This view is clipping its content.2(13@34"This view is clipping its content.305790796#18446744073709551615#0#0(6@85"/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/English.lproj/MainMenu.xib305158575#641#0#641#0#0"0(13@34"This view is clipping its content.305790796#18446744073709551615#0#0(6@85"/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/English.lproj/MainMenu.xib305158575#639#0#639#0#0"0(0#0#85"/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/English.lproj/MainMenu.xib8614570624#434"    cd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Resources/English.lproj/MainMenu.nib /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCompileXIB /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/English.lproj/MainMenu.xib
+r0
+
+CCopyStringsFile /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s305790795.236305
+e305790796.622523
+r1
+xCopyStringsFile
+x/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings305790795#305790796#0(0"0(0#0#90"/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/English.lproj/InfoPlist.strings8614658944#415"    cd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Resources/English.lproj0#
+
+CCopyStringsFile /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCpResource build/Debug/SSChurchPodcaster.app/Contents/Resources/audio.png audio.png
+s305790796.622811
+e305790796.790032
+r1
+xCpResource
+xbuild/Debug/SSChurchPodcaster.app/Contents/Resources/audio.png
+xaudio.png
+lSLF07#2@14"Copy audio.png305790796#305790796#0(0"0(0#0#68"/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/audio.png8623720896#395"    cd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/audio.png /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Resources0#
+
+CCpResource build/Debug/SSChurchPodcaster.app/Contents/Resources/delete-icon.png delete-icon.png
+s305790796.625673
+e305790796.790625
+r1
+xCpResource
+xbuild/Debug/SSChurchPodcaster.app/Contents/Resources/delete-icon.png
+xdelete-icon.png
+lSLF07#2@20"Copy delete-icon.png305790796#305790796#0(0"0(0#0#74"/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/delete-icon.png8616381824#401"    cd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/delete-icon.png /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Resources0#
+
+CCpResource build/Debug/SSChurchPodcaster.app/Contents/Resources/icon.icns icon.icns
+s305790796.623989
+e305790796.868389
+r1
+xCpResource
+xbuild/Debug/SSChurchPodcaster.app/Contents/Resources/icon.icns
+xicon.icns
+lSLF07#2@14"Copy icon.icns305790796#305790796#0(0"0(0#0#68"/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/icon.icns8623601408#395"    cd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/icon.icns /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Resources0#
+
+CCpResource build/Debug/SSChurchPodcaster.app/Contents/Resources/podcasting podcasting
+s305790796.627376
+e305790796.869228
+r1
+xCpResource
+xbuild/Debug/SSChurchPodcaster.app/Contents/Resources/podcasting
+xpodcasting
+lSLF07#2@15"Copy podcasting305790796#305790796#0(0"0(0#0#69"/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/podcasting8614498368#396"    cd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/podcasting /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Resources0#
+
+CLd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/MacOS/SSChurchPodcaster normal i386
+s305790889.278617
+e305790889.404403
+r1
+xLd
+x/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/MacOS/SSChurchPodcaster
+xnormal
+xi386
+lSLF07#2@130"Link /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/MacOS/SSChurchPodcaster305790889#305790889#0(0"0(0#0#0"8626731776#948"    cd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/g++-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug -L/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/libid3 -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster -filelist /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/Objects-normal/i386/SSChurchPodcaster.LinkFileList -mmacosx-version-min=10.6 /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework/ID3 -framework Cocoa -framework LAME -framework Carbon -o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/MacOS/SSChurchPodcaster0#
+
+CLd /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/MacOS/SSChurchPodcaster normal x86_64
+r0
+
+CPBXCp build/Debug/SSChurchPodcaster.app/Contents/Frameworks/ID3.framework ID3/build/Debug/ID3.framework
+s305790796.907690
+e305790796.989706
+r1
+xPBXCp
+xbuild/Debug/SSChurchPodcaster.app/Contents/Frameworks/ID3.framework
+xID3/build/Debug/ID3.framework
+lSLF07#2@34"Copy ID3/build/Debug/ID3.framework305790796#305790796#0(0"0(0#0#88"/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework8616217600#416"    cd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/ID3/build/Debug/ID3.framework /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Frameworks0#
+
+CPBXCp build/Debug/SSChurchPodcaster.app/Contents/Frameworks/LAME.framework LAME.framework
+s305790796.909476
+e305790796.999922
+r1
+xPBXCp
+xbuild/Debug/SSChurchPodcaster.app/Contents/Frameworks/LAME.framework
+xLAME.framework
+lSLF07#2@19"Copy LAME.framework305790796#305790797#0(0"0(0#0#73"/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/LAME.framework8613572384#401"    cd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/LAME.framework /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Frameworks0#
+
+CProcessInfoPlistFile /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Info.plist SSChurchPodcaster-Info.plist
+s305790795.232444
+e305790795.236212
+r1
+xProcessInfoPlistFile
+x/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Info.plist
+xSSChurchPodcaster-Info.plist
+lSLF07#2@36"Process SSChurchPodcaster-Info.plist305790795#305790795#0(0"0(0#0#87"/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/SSChurchPodcaster-Info.plist8615231808#400"    cd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster    builtin-infoPlistUtility SSChurchPodcaster-Info.plist -genpkginfo /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Info.plist0#
+
+CProcessInfoPlistFile /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app/Contents/Info.plist SSChurchPodcaster-Info.plist
+r0
+
+CProcessPCH /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/SSChurchPodcaster_Prefix-cgpkhsmxlzytnlcmktxlqwatbgea/SSChurchPodcaster_Prefix.pch.gch SSChurchPodcaster_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s305790797.000042
+e305790816.432190
+r1
+xProcessPCH
+x/var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/SSChurchPodcaster_Prefix-cgpkhsmxlzytnlcmktxlqwatbgea/SSChurchPodcaster_Prefix.pch.gch
+xSSChurchPodcaster_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile SSChurchPodcaster_Prefix.pch305790797#305790816#0(0"0(0#0#87"/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/SSChurchPodcaster_Prefix.pch8619693056#1828"    cd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-generated-files.hmap -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-own-target-headers.hmap -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-all-target-headers.hmap -iquote /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-project-headers.hmap -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/include -IID3 -IID3/libid3 -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/DerivedSources -c /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/SSChurchPodcaster_Prefix.pch -o /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/SSChurchPodcaster_Prefix-cgpkhsmxlzytnlcmktxlqwatbgea/SSChurchPodcaster_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/C0/C0AJ8AbDEriVob8iJiRZjU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SSChurchPodcaster_Prefix-dzlecnrcsbhbofcvborivshdfukd/SSChurchPodcaster_Prefix.pch.gch SSChurchPodcaster_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CProcessPCH++ /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/SSChurchPodcaster_Prefix-gldjxnbonkikpyfvnohpmisltflb/SSChurchPodcaster_Prefix.pch.gch SSChurchPodcaster_Prefix.pch normal i386 objective-c++ com.apple.compilers.gcc.4_2
+s305790797.002943
+e305790816.630342
+r1
+xProcessPCH++
+x/var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/SSChurchPodcaster_Prefix-gldjxnbonkikpyfvnohpmisltflb/SSChurchPodcaster_Prefix.pch.gch
+xSSChurchPodcaster_Prefix.pch
+xnormal
+xi386
+xobjective-c++
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@39"Precompile SSChurchPodcaster_Prefix.pch305790797#305790816#0(0"0(0#0#87"/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/SSChurchPodcaster_Prefix.pch8615343520#1847"    cd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c++-header -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -fvisibility-inlines-hidden -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-generated-files.hmap -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-own-target-headers.hmap -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-all-target-headers.hmap -iquote /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/SSChurchPodcaster-project-headers.hmap -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug -F/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/include -IID3 -IID3/libid3 -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/DerivedSources/i386 -I/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/SSChurchPodcaster.build/Debug/SSChurchPodcaster.build/DerivedSources -c /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/SSChurchPodcaster_Prefix.pch -o /var/folders/23/23Ur38vxGmuVzTQ0ciM4xV-MBlE/-Caches-/com.apple.Xcode.274216724/SharedPrecompiledHeaders/SSChurchPodcaster_Prefix-gldjxnbonkikpyfvnohpmisltflb/SSChurchPodcaster_Prefix.pch.gch0#
+
+CProcessPCH++ /var/folders/C0/C0AJ8AbDEriVob8iJiRZjU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/SSChurchPodcaster_Prefix-erdwdrukxkrafyaspvomrzoifzfx/SSChurchPodcaster_Prefix.pch.gch SSChurchPodcaster_Prefix.pch normal x86_64 objective-c++ com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app
+s305790889.404498
+e305790889.407311
+r1
+xTouch
+x/Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app
+lSLF07#2@98"Touch /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app305790889#305790889#0(0"0(0#0#0"8625493632#181"    cd /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster    /usr/bin/touch -c /Users/radif.sharafullin/Desktop/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app0#
+
+CTouch /Users/rsharafullin/dev/Dev/MAC/SSChurchPodcaster/build/Debug/SSChurchPodcaster.app
+r0
+
